@@ -3,7 +3,7 @@
 int main() {
     int num1, num2, sum ;
     
-    printf(" the first number: ");
+    printf("enter the first number: ");
     scanf("%d", &num1);
     
     printf("Enter the second number: ");
